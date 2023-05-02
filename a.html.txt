@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="s.css">
+<head>
+
+</head>
+<body>
+        <div class="navbar">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">CONTACT US</a></li>            
+            </ul>  
+    </div>
+
+    <div class="content">
+        
+        
+        </b><h1>3 CJ's BARBERSHOP</h1>
+        <p>An establishment that offers haircutting</p>
+        <p>services for men, women and children.</p>
+    </div>
+    
+    
+        <div id="about" class="info">
+        
+
+        <table style="width:100%">
+        <tr>
+            
+            <td><p><h1>Background of the Owner</h1> <br>
+                Christiine Jeza graduated from Xavier University with a Bachelor of Science
+                in Chemical Engineering in April 2021. She also passed the Chemical Engineering
+                Licensure Board Examination in May 2022. She was the eldest daughter of Leonila
+                and Dennis Buot, Who manage the barbershop. The ownership was given to her due
+                to some complications in applying for a business permit under their names. The
+                family business started on 2016 of December.</p></td>
+            <td><img src="owner.jpg" alt="Owner of the barbershop" class="ownership"></td>
+        </tr>
+        </div>
+        </table>
+
+
+
+</body>
+</html>
+
